@@ -7,19 +7,19 @@
 ## Overview
 This advanced agent-based model simulates corruption ecosystems through role transitions between perpetrators, whistleblowers, bystanders, and enforcers. Developed for computational social science research, it features:
 
-- **Empirically-calibratable parameters** for real-world validation
-- **Institutional shock modeling** with policy impact quantification
-- **Dynamic role transitions** based on moral-state-system-impact axes
-- **Publication-quality visualizations** for academic research
+- Empirically-calibratable parameters for real-world validation
+- Institutional shock modeling with policy impact quantification
+- Dynamic role transitions based on moral-state-system-impact axes
+- Publication-quality visualizations for academic research
 
 > *"The simulation revealed a 31.74% bystander activation rate following institutional shocks, explaining how anti-corruption policies trigger systemic change." - Sample Finding*
 
 ## Key Features
-- 🎭 **Role-based agent architecture** with behavioral parameters
-- ⚡ **Institutional shock system** with magnitude calibration
-- 📊 **Multi-modal output system** (CSV, PNG, MP4/GIF)
-- 🔍 **Parameter sensitivity analysis** tools
-- 📚 **Journal-ready visualizations** with APA/Nature style options
+- Role-based agent architecture with behavioral parameters
+- Institutional shock system with magnitude calibration
+- Multi-modal output system (CSV, PNG, MP4/GIF)
+- Parameter sensitivity analysis tools
+- Journal-ready visualizations with APA/Nature style options
 
 ## Installation
 ```bash
@@ -42,7 +42,7 @@ python corruption_simulation.py
 
 # Output:
 # Starting Corruption System Simulation...
-# === SIMULATION SUMMARY ===
+# SIMULATION SUMMARY
 # Initial Corruption: 49.22%
 # Final Corruption: 40.18%
 # Change: -9.04%
